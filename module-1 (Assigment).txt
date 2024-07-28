@@ -1,0 +1,31 @@
+https://www.flipkart.com/  (protocol,subdomain,Top level domain)
+
+
+http://www.irctc.co.in/     (protocol,subdomain,domain,TLD)
+
+
+
+https://www.allegro.pl      (protocol,subdomain,domain,TLD)
+
+
+http://WWW.johnlewispaternership.co.uk/ (protocol,subdomain,domain,TLD
+
+
+http://WWW.uidai.gov.in/ (protocol,subdomain,domain,TLD)
+
+
+
+*The HTTPS/SSL to the process of transfer website from the non-secure HTTP protocol to the secure HTTPS protocol. thid relocation is performed by installing an SSL Certificate on a website server.
+
+
+
+*1)chrome
+ 2)safari
+ 3)Firefox
+ 4)Internet Explorer
+ 5)Opera
+ 6)UC Browser
+ 7)Microsoft Edge
+ 8)Samsung Internet
+ 9)Apple Safari
+ 10)Dolphin Browser 
